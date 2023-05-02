@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "cid": 1,
+        "name": "Tom Yum Goong",
+        "description": "A hot and sour soup with shrimp and a variety of herbs and spices.",
+        "image": "https://images.unsplash.com/photo-1628430043175-0e8820df47c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "ingredients": [
+            "shrimp",
+            "lemongrass",
+            "kaffir lime leaves",
+            "galangal",
+            "bird's eye chili",
+            "fish sauce",
+            "lime juice",
+            "sugar",
+            "mushrooms",
+            "tomatoes",
+            "coriander leaves"
+        ],
+        "instructions": [
+            "Bring 4 cups of water to a boil in a pot.",
+            "Add lemongrass, kaffir lime leaves, and galangal to the pot and let it boil for 2 minutes.",
+            "Add shrimp, mushrooms, and tomatoes to the pot and let it boil until the shrimp turns pink.",
+            "Add fish sauce, lime juice, and sugar to the pot and stir well.",
+            "Add bird's eye chili and coriander leaves to the pot.",
+            "Remove from heat and serve hot."
+        ],
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "cid": 1,
+        "name": "Som Tum",
+        "description": "A spicy salad made from shredded unripe papaya, tomatoes, green beans, garlic, chili peppers, and peanuts.",
+        "image": "https://images.pexels.com/photos/13533951/pexels-photo-13533951.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+            "unripe papaya",
+            "tomatoes",
+            "green beans",
+            "garlic",
+            "bird's eye chili",
+            "fish sauce",
+            "palm sugar",
+            "lime juice",
+            "peanuts"
+        ],
+        "instructions": [
+            "Peel the unripe papaya and shred it into thin strips.",
+            "In a mortar and pestle, pound garlic and chili peppers until they are well combined.",
+            "Add green beans and pound them lightly.",
+            "Add palm sugar, fish sauce, and lime juice to the mortar and pestle and mix well.",
+            "Add shredded papaya and tomatoes to the mortar and pestle and gently pound them until the flavors are well combined.",
+            "Serve the salad with peanuts on top."
+        ],
+        "rating": 4.7
+    },
+    {
+        "id": 3,
+        "cid": 1,
+        "name": "Nam Ma Kam",
+        "description": "A refreshing Thai tamarind juice made with tamarind pulp, sugar, and water.",
+        "image": "https://www.rachelcooksthai.com/wp-content/uploads/2011/07/tamarind-drink-6.jpg",
+        "ingredients": ["1 cup tamarind pulp", "4 cups water", "1/2 cup sugar"],
+        "instructions": [
+            "Soak the tamarind pulp in 2 cups of warm water for 10-15 minutes. Use your hands to break up the pulp and extract as much juice as possible.",
+            "Strain the tamarind juice through a fine mesh strainer to remove any pulp and seeds.",
+            "Add the remaining 2 cups of water and sugar to the tamarind juice, and stir well to dissolve the sugar.",
+            "Chill the juice in the refrigerator, or serve over ice."
+        ],
+        "rating": 4.5
+    },
+    {
+        "id": 4,
+        "cid": 2,
+        "name": "Nam Manglak",
+        "description": "A sweet and sour Thai mango juice made with fresh ripe mangoes, sugar, and water.",
+        "image": "https://i.pinimg.com/600x315/4c/52/db/4c52db701a61324749e2d1fbd03c4ad0.jpg",
+        "ingredients": ["2 ripe mangoes", "4 cups water", "1/2 cup sugar"],
+        "instructions": [
+            "Peel and chop the mangoes, discarding the pit.",
+            "Blend the mangoes in a blender or food processor until smooth.",
+            "Strain the mango puree through a fine mesh strainer to remove any fibers or lumps.",
+            "Add the water and sugar to the mango juice, and stir well to dissolve the sugar.",
+            "Chill the juice in the refrigerator, or serve over ice."
+        ],
+        "rating": 4.2
+    },
+    {
+        "id": 5,
+        "cid": 2,
+        "name": "Nam Yen",
+        "description": "A sweet and creamy Thai iced milk tea made with black tea, evaporated milk, and sweetened condensed milk.",
+        "image": "https://www.cookingwithnart.com/wp-content/uploads/2020/01/Thai-Pink-Milk-Nom-Yen-1.jpg",
+        "ingredients": [
+            "4 black tea bags",
+            "4 cups water",
+            "1/2 cup evaporated milk",
+            "1/4 cup sweetened condensed milk",
+            "1 cup ice"
+        ],
+        "instructions": [
+            "Boil the water and steep the tea bags in the water for 3-5 minutes.",
+            "Remove the tea bags and let the tea cool to room temperature.",
+            "In a separate bowl, whisk together the evaporated milk and sweetened condensed milk until well combined.",
+            "Fill a glass with ice, and pour in the cooled tea and milk mixture.",
+            "Stir well, and serve immediately."
+        ],
+        "rating": 4.4
+    },
+    {
+        "id": 6,
+        "cid": 2,
+        "name": "Pad Thai",
+        "description": "Stir-fried rice noodles with eggs, tofu, shrimp, tamarind pulp, fish sauce, dried shrimp, garlic, shallots, palm sugar, and chili peppers, garnished with bean sprouts and chopped peanuts.",
+        "image": "https://www.recipetineats.com/wp-content/uploads/2020/01/Chicken-Pad-Thai_9-SQ.jpg",
+        "ingredients": [
+            "rice noodles",
+            "shrimp",
+            "tofu",
+            "eggs",
+            "tamarind pulp",
+            "fish sauce",
+            "dried shrimp",
+            "garlic",
+            "shallots",
+            "palm sugar",
+            "chili peppers",
+            "bean sprouts",
+            "peanuts"
+        ],
+        "instructions": [
+            "Soak the rice noodles in warm water until they are soft, then drain and set aside.",
+            "Heat up a pan with oil and add garlic and shallots. Stir until fragrant.",
+            "Add shrimp and stir until cooked.",
+            "Add eggs and stir until cooked.",
+            "Add the rice noodles, tofu, tamarind pulp, fish sauce, dried shrimp, palm sugar, and chili peppers, and stir well.",
+            "Add bean sprouts and stir well.",
+            "Garnish with chopped peanuts and serve hot."
+        ],
+        "rating": 4.7
+    },
+    {
+        "id": 7,
+        "cid": 3,
+        "name": "Som Tam",
+        "description": "A spicy salad made from shredded unripe papaya, tomatoes, green beans, peanuts, and chili peppers.",
+        "image": "https://www.eatingthaifood.com/wp-content/uploads/2013/12/thai-som-tam-salad-recipe-5.jpg",
+        "ingredients": [
+            "unripe papaya",
+            "tomatoes",
+            "green beans",
+            "bird's eye chili",
+            "garlic",
+            "fish sauce",
+            "lime juice",
+            "palm sugar",
+            "peanuts"
+        ],
+        "instructions": [
+            "Peel and shred the unripe papaya into thin strips.",
+            "In a large mortar and pestle, pound garlic and bird's eye chili until they are crushed.",
+            "Add shredded papaya, green beans, and tomatoes to the mortar and pestle and pound lightly.",
+            "Add fish sauce, lime juice, and palm sugar to the mortar and pestle and pound until the ingredients are mixed well.",
+            "Transfer the salad to a serving dish and sprinkle with crushed peanuts.",
+            "Serve with sticky rice."
+        ],
+        "rating": 4.8
+    },
+    {
+        "id": 8,
+        "cid": 3,
+        "name": "Khao Soi",
+        "description": "A coconut curry soup with egg noodles and chicken or beef, topped with crispy fried egg noodles and pickled vegetables.",
+        "image": "https://th.bing.com/th/id/R.f8f2e479826524a0793a0bcf246e4b37?rik=SPso1DYTU3t2EQ&riu=http%3a%2f%2fwww.vodkaandbiscuits.com%2fwp-content%2fuploads%2f2016%2f09%2fChicken-Khao-Soi_-8-748x1024.jpg&ehk=rkU9ts%2bplFZG%2b5mSC00%2fEf0iN7Lh7%2b5D1GeWRQL9UfE%3d&risl=&pid=ImgRaw&r=0",
+        "ingredients": [
+            "chicken or beef",
+            "egg noodles",
+            "coconut milk",
+            "yellow curry paste",
+            "fish sauce",
+            "palm sugar",
+            "lime juice",
+            "shallots",
+            "garlic",
+            "coriander",
+            "pickled mustard greens",
+            "crispy egg noodles"
+        ],
+        "instructions": [
+            "Heat a pan over medium heat and add 2 tablespoons of oil.",
+            "Add yellow curry paste and stir until fragrant.",
+            "Add chicken or beef to the pan and cook until it is browned on all sides.",
+            "Add coconut milk to the pan and stir well.",
+            "Add fish sauce, palm sugar, and lime juice to the pan and stir well.",
+            "In a separate pot, boil egg noodles until they are cooked. Drain the noodles and set them aside.",
+            "In a pan, fry crispy egg noodles until they are golden brown and set them aside.",
+            "Add the cooked egg noodles to the curry soup and stir well.",
+            "Serve the curry soup in a bowl and top with crispy egg noodles, shallots, coriander, and pickled mustard greens."
+        ],
+        "rating": 4.7
+    },
+
+    {
+        "id": 9,
+        "cid": 3,
+        "name": "Tom Kha Gai",
+        "description": "A spicy and sour coconut milk soup with chicken, galangal, lemongrass, kaffir lime leaves, and chili peppers.",
+        "image": "https://www.kitchensanctuary.com/wp-content/uploads/2022/04/Tom-Kha-Gai-square-FS-9.jpg",
+        "ingredients": [
+            "chicken",
+            "coconut milk",
+            "galangal",
+            "lemongrass",
+            "kaffir lime leaves",
+            "chili peppers"
+        ],
+        "instructions": [
+            "Heat up a pot of coconut milk over medium heat.",
+            "Add galangal, lemongrass, and kaffir lime leaves, and bring to a boil.",
+            "Add chicken and chili peppers, and cook until the chicken is done.",
+            "Garnish with more kaffir lime leaves and serve hot."
+        ],
+        "rating": 4.8
+    },
+    {
+        "id": 10,
+        "cid": 4,
+        "name": "Pad See Ew",
+        "description": "Stir-fried flat rice noodles with Chinese broccoli, eggs, soy sauce, oyster sauce, garlic, and sometimes meat or seafood.",
+        "image": "https://res.cloudinary.com/hotcooking/image/upload/f_auto,q_70,w_700/pad_see_ew.jpg",
+        "ingredients": [
+            "flat rice noodles",
+            "Chinese broccoli",
+            "eggs",
+            "soy sauce",
+            "oyster sauce",
+            "garlic",
+            "meat or seafood (optional)"
+        ],
+        "instructions": [
+            "Soak the rice noodles in warm water until they are soft, then drain and set aside.",
+            "Heat up a pan with oil and add garlic. Stir until fragrant.",
+            "Add meat or seafood (if using) and stir until cooked.",
+            "Add eggs and stir until cooked.",
+            "Add the rice noodles, Chinese broccoli, soy sauce, and oyster sauce, and stir well.",
+            "Serve hot."
+        ],
+        "rating": 4.5
+    },
+    {
+        "id": 11,
+        "cid": 4,
+        "name": "Green Curry",
+        "description": "A spicy curry made with coconut milk, meat or vegetables, green chili peppers, and Thai herbs.",
+        "image": "https://www.connoisseurusveg.com/wp-content/uploads/2022/05/vegan-green-curry-22-sq.jpg",
+        "ingredients": [
+            "meat or vegetables",
+            "coconut milk",
+            "green chili peppers",
+            "Thai herbs"
+        ],
+        "instructions": [
+            "Heat up a pot of coconut milk over medium heat.",
+            "Add green curry paste and stir until fragrant.",
+            "Add meat or vegetables and stir until cooked.",
+            "Add Thai herbs and stir well.",
+            "Serve hot with rice."
+        ],
+        "rating": 4.7
+    },
+    {
+        "id": 12,
+        "cid": 4,
+        "name": "Massaman Curry",
+        "description": "A mild and sweet curry made with coconut milk, meat or vegetables, potatoes, peanuts, and Massaman curry paste.",
+        "image": "https://spicecravings.com/wp-content/uploads/2018/05/Thai-Massaman-Curry-Featured.jpg",
+        "ingredients": [
+            "meat or vegetables",
+            "coconut milk",
+            "potatoes",
+            "peanuts",
+            "Massaman curry paste"
+        ],
+        "instructions": [
+            "Heat up a pot of coconut milk over medium heat.",
+            "Add Massaman curry paste and stir until fragrant.",
+            "Add meat or vegetables and stir until cooked.",
+            "Add potatoes and peanuts, and cook until the potatoes are tender.",
+            "Serve hot with rice."
+        ],
+        "rating": 4.6
+    },
+    {
+        "id": 13,
+        "cid": 5,
+        "name": "Laab",
+        "description": "A spicy salad made with minced meat or tofu, shallots, chili peppers, lime juice, fish sauce, and roasted rice powder.",
+        "image": "https://www.eatingthaifood.com/wp-content/uploads/2014/02/thai-larb-recipe.jpg",
+        "ingredients": [
+            "minced meat or tofu",
+            "shallots",
+            "chili peppers",
+            "lime juice",
+            "fish sauce",
+            "roasted rice powder"
+        ],
+        "instructions": [
+            "Heat up a pan and cook the minced meat or tofu until it's done.",
+            "Add shallots and chili peppers, and stir until fragrant.",
+            "Add fish sauce and lime juice, and stir well.",
+            "Add roasted rice powder and stir well.",
+            "Serve with fresh vegetables."
+        ],
+        "rating": 4.4
+    },
+    {
+        "id": 14,
+        "cid": 5,
+        "name": "Mango Sticky Rice",
+        "description": "A sweet and creamy dessert made with glutinous rice, coconut milk, and fresh mango slices.",
+        "image": "https://takestwoeggs.com/wp-content/uploads/2021/07/Thai-Mango-Sticky-Rice-Takestwoeggs-Process-Final-sq.jpg",
+        "ingredients": [
+            "glutinous rice",
+            "coconut milk",
+            "mango",
+            "sugar",
+            "salt"
+        ],
+        "instructions": [
+            "Rinse the glutinous rice several times until the water runs clear, then soak it in water for at least 30 minutes.",
+            "Drain the rice and transfer it to a pot. Add water and a pinch of salt, and bring it to a boil over high heat. Once it starts boiling, reduce the heat to low and let it simmer, covered, for 15-20 minutes, or until the rice is fully cooked.",
+            "In a separate pot, heat up the coconut milk with sugar and salt, and stir until the sugar has dissolved. Keep it warm over low heat.",
+            "Slice the mango into thin pieces.",
+            "Once the rice is done, transfer it to a large bowl. Pour the warm coconut milk over the rice and stir well. Let it sit for 10-15 minutes to absorb the coconut milk.",
+            "Serve the rice with fresh mango slices on top."
+        ],
+        "rating": 4.9
+    },
+    {
+        "id": 15,
+        "cid": 5,
+        "name": "Pla Pao",
+        "description": "A whole grilled fish stuffed with lemongrass, kaffir lime leaves, and garlic.",
+        "image": "https://asianinspirations.com.au/wp-content/uploads/2018/07/R00695_Pla-Pao.jpg",
+        "ingredients": [
+            "whole fish (tilapia or sea bass)",
+            "lemongrass",
+            "kaffir lime leaves",
+            "garlic",
+            "soy sauce",
+            "fish sauce",
+            "palm sugar",
+            "lime juice",
+            "coriander"
+        ],
+        "instructions": [
+            "Clean the fish and pat it dry with paper towels.",
+            "Stuff the lemongrass, kaffir lime leaves, and garlic inside the fish.",
+            "Wrap the fish in banana leaves or aluminum foil.",
+            "Grill the fish over medium heat for about 10-15 minutes on each side.",
+            "In a bowl, mix soy sauce, fish sauce, palm sugar, and lime juice until well combined.",
+            "Serve the grilled fish with the sauce and fresh coriander."
+        ],
+        "rating": 4.9
+    },
+    {
+        "id": 16,
+        "cid": 6,
+        "name": "Pad Krapow Moo Saap",
+        "description": "Stir-fried minced pork with Thai basil and chili peppers, served over rice and topped with a fried egg.",
+        "image": "https://www.alldayieat.com/wp-content/uploads/2017/10/Pad-Kra-Pao-Moo-Stir-Fried-Pork-with-Thai-Holy-Basil-4.jpg",
+        "ingredients": [
+            "minced pork",
+            "Thai basil leaves",
+            "bird's eye chili",
+            "garlic",
+            "soy sauce",
+            "oyster sauce",
+            "fish sauce",
+            "sugar",
+            "rice",
+            "egg"
+        ],
+        "instructions": [
+            "Cook rice according to package instructions.",
+            "In a pan, heat oil over medium heat.",
+            "Add garlic and chili peppers to the pan and stir-fry until fragrant.",
+            "Add minced pork to the pan and stir-fry until it is cooked.",
+            "Add soy sauce, oyster sauce, fish sauce, and sugar to the pan and stir-fry until the ingredients are mixed well.",
+            "Add Thai basil leaves to the pan and stir-fry until they are wilted.",
+            "In a separate pan, fry an egg over medium heat until the whites are set but the yolk is still runny.",
+            "Serve the stir-fried pork over rice and top with the fried egg."
+        ],
+        "rating": 4.8
+    },
+    {
+        "id": 17,
+        "cid": 6,
+        "name": "Moo Ping",
+        "description": "Grilled pork skewers marinated with fish sauce, garlic, and coconut milk, served with sticky rice and dipping sauce.",
+        "image": "https://www.simplysuwanee.com/wp-content/uploads/2019/06/IMG_3088v2.jpg",
+        "ingredients": [
+            "1 lb pork shoulder, cut into 1-inch strips",
+            "2 tbsp fish sauce",
+            "1 tbsp oyster sauce",
+            "1 tbsp soy sauce",
+            "1 tbsp palm sugar",
+            "1 tbsp coconut milk",
+            "3 cloves garlic, minced",
+            "1/4 tsp black pepper",
+            "Bamboo skewers, soaked in water for 30 minutes",
+            "Sticky rice, for serving",
+            "Sweet chili dipping sauce, for serving"
+        ],
+        "instructions": [
+            "In a bowl, mix together fish sauce, oyster sauce, soy sauce, palm sugar, coconut milk, garlic, and black pepper.",
+            "Add the pork to the marinade and mix well. Marinate for at least 1 hour.",
+            "Thread the pork onto the soaked bamboo skewers.",
+            "Grill the skewers over medium-high heat for about 10 minutes, flipping occasionally, until cooked through.",
+            "Serve with sticky rice and sweet chili dipping sauce."
+        ],
+        "rating": 4.7
+    },
+    {
+        "id": 18,
+        "cid": 6,
+        "name": "Laab Gai",
+        "description": "A spicy minced chicken salad with lime juice, fish sauce, and roasted rice powder.",
+        "image": "https://www.templeofthai.com/images/recipes/laughingmango-chicken-salad-laab-gy-iStock-800x532.jpg",
+        "ingredients": [
+            "ground chicken",
+            "shallots",
+            "scallions",
+            "mint leaves",
+            "cilantro",
+            "lime juice",
+            "fish sauce",
+            "roasted rice powder",
+            "chili peppers"
+        ],
+        "instructions": [
+            "Heat a skillet over medium-high heat and add the ground chicken.",
+            "Cook the chicken until browned and no longer pink, breaking it up into small pieces with a spatula.",
+            "Remove the chicken from the skillet and set it aside.",
+            "In a mixing bowl, combine the cooked chicken, shallots, scallions, mint leaves, and cilantro.",
+            "Add lime juice, fish sauce, roasted rice powder, and chili peppers to taste.",
+            "Mix well and serve with sticky rice or lettuce leaves."
+        ],
+        "rating": 4.5
+    }
+]
