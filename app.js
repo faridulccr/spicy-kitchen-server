@@ -8,8 +8,6 @@ const homeRouter = require("./routers/home.route");
 // create express server
 const app = express();
 app.use(cors());
-// to show static file
-app.use(express.static("views"));
 
 app.use("/", homeRouter);
 
