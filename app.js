@@ -4,8 +4,7 @@ const cors = require("cors");
 
 // routes
 const homeRouter = require("./routers/home.route");
-const chefsRouter = require("./routers/chefs.route")
-const recipesRouter = require("./routers/recipes.route")
+const chefsRouter = require("./routers/chefs.route");
 
 // create express server
 const app = express();
@@ -13,7 +12,6 @@ app.use(cors());
 
 app.use("/", homeRouter);
 app.use("/chefs", chefsRouter);
-app.use("/recipes", recipesRouter);
 
 // route not found error
 app.use((req, res, next) => {

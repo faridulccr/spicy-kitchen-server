@@ -2,60 +2,60 @@
     {
         "id": 1,
         "name": "Chef John Doe",
-        "image": "https://example.com/chef-john-doe.jpg",
+        "image": "https://www.thaipbsworld.com/wp-content/uploads/2022/11/B21803DF-C257-4C59-BE40-FF174A3B0975-600x338.png",
         "bio": "Chef John Doe is a graduate of the Culinary Institute of America with over 20 years of experience in the industry.",
         "description": "Chef John Doe is known for his creative and innovative dishes, often incorporating local and seasonal ingredients.",
-        "rating": 4.5,
+        "likes": 976,
         "experience": 20,
         "numRecipes": 50
     },
     {
         "id": 2,
         "name": "Chef Jane Smith",
-        "image": "https://example.com/chef-jane-smith.jpg",
+        "image": "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2020/12/18/df1034d689384432b112d6e9131bcc1c_What+MICHELIN+Guide+Thailand+2021+Inspectors+Said+About+Best+Restaurants+in+Thailand+I.png",
         "bio": "Chef Jane Smith trained under renowned chefs in France and Italy before opening her own restaurant.",
         "description": "Chef Jane Smith's cooking style is heavily influenced by her time spent in Europe, with a focus on classic French and Italian techniques.",
-        "rating": 4.8,
+        "likes": 786,
         "experience": 15,
         "numRecipes": 35
     },
     {
         "id": 3,
         "name": "Chef Mark Lee",
-        "image": "https://example.com/chef-mark-lee.jpg",
-        "bio": "Chef Mark Lee has worked in some of the most prestigious kitchens in the world, including the Michelin-starred restaurant Le Bernardin.",
+        "image": "https://thailandstart.com/wp-content/uploads/2023/04/gareth-harrison-d2fCUh0PIKo-unsplash-scaled.jpg",
+        "bio": "Chef Mark Lee has worked in some of the most prestigious kitchens in the world, including Le Bernardin.",
         "description": "Chef Mark Lee's cuisine is a fusion of Asian and European flavors, with an emphasis on seafood and bold spices.",
-        "rating": 4.9,
+        "likes": 467,
         "experience": 25,
         "numRecipes": 70
     },
     {
         "id": 4,
         "name": "Chef Emily Rodriguez",
-        "image": "https://example.com/chef-emily-rodriguez.jpg",
+        "image": "https://img.theculturetrip.com/450x/smart/images/56-188494-image-1-chef-kittichai-portrait.jpg",
         "bio": "Chef Emily Rodriguez grew up in a family of restaurateurs and has been cooking professionally for over a decade.",
         "description": "Chef Emily Rodriguez's dishes are inspired by her Latin American heritage, with a focus on bold flavors and fresh ingredients.",
-        "rating": 4.6,
+        "likes": 342,
         "experience": 12,
         "numRecipes": 45
     },
     {
         "id": 5,
         "name": "Chef Michael Chen",
-        "image": "https://example.com/chef-michael-chen.jpg",
+        "image": "https://pbs.twimg.com/media/DldH4JhW4AEmDyM.jpg",
         "bio": "Chef Michael Chen honed his skills in some of New York City's top restaurants before opening his own establishment.",
         "description": "Chef Michael Chen's cooking style is contemporary American, with an emphasis on locally-sourced and sustainable ingredients.",
-        "rating": 4.7,
+        "likes": 245,
         "experience": 18,
         "numRecipes": 55
     },
     {
         "id": 6,
         "name": "Chef Sara Kim",
-        "image": "https://example.com/chef-sara-kim.jpg",
+        "image": "https://www.preparedfoods.com/ext/resources/images/2018/09/ChefThaiDang_900.jpg?height=635&t=1538754105&width=1200",
         "bio": "Chef Sara Kim trained in South Korea before coming to the United States to explore new culinary horizons.",
         "description": "Chef Sara Kim's cuisine is a fusion of Korean and Californian flavors, with a focus on healthy and flavorful dishes.",
-        "rating": 4.4,
+        "likes": 234,
         "experience": 10,
         "numRecipes": 30
     }
